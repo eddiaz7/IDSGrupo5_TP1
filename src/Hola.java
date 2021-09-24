@@ -18,6 +18,7 @@ public class Hola {
 	
 		System.out.println("Nueva funcionalidad rama Dev");
 		System.out.println("Modificacion A");
+		System.out.println("Modificacion B");
 	}
 
 }
